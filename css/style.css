@@ -95,6 +95,7 @@ nav .container {
   position: relative;
   display: flex;
   align-items: center;
+  padding-top: 10px;
 }
 
 nav .container .btn--white {
